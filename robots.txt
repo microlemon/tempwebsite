@@ -1,0 +1,3 @@
+# no archiving
+User-agent: *
+Disallow: /
